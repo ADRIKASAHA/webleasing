@@ -1,0 +1,37 @@
+@media only screen and(min-width: 320px){
+.bb{
+	font-size: 10px;
+}
+
+
+}
+@media only screen and(min-width: 480px){
+
+.bb {
+	font-size: 15px;
+}
+
+
+
+}
+@media only screen and(min-width: 767px){
+.bb {
+	font-size: 20px;
+}
+
+
+
+}
+@media only screen and(min-width: 921px){
+	.bb {
+	font-size: 25px;
+}
+
+}
+@media only screen and(min-width: 1200px){
+
+.bb{
+	font-size: 30px;
+}
+
+}
